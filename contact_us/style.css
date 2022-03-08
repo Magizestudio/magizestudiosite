@@ -19,10 +19,10 @@ body {
 }
 
 a {
-    color: #eb4034;
-    border: 0;
-    outline: none;
-    text-decoration: none;
+    color: white;
+    background-color: 00bbff;
+    width: 25vh;
+    height: 1vh;
 }
 
 .top_btns {

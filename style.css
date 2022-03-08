@@ -54,6 +54,11 @@ button:hover {
     left: 0.4vh;
 }
 
+.join_discord {
+    position: relative;
+    left: 0.8vh;
+}
+
 .main_frame {
     display: flex;
     width: 202.7vh;

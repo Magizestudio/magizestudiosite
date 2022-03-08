@@ -20,7 +20,6 @@ body {
 
 a {
     color: white;
-    background-color: #00bbff;
     width: 25vh;
     height: 1vh;
     text-decoration: none;
@@ -70,4 +69,13 @@ button:hover {
     width: 100vh;
     height: 80vh;
     background-color: #cacaca;
+}
+
+.contact_us_btn {
+    background-color: #00bbff;
+}
+
+
+.contact_us_btn {
+    background-color: #00ddff;
 }

@@ -47,6 +47,11 @@ button:hover {
     background-color: #00ddff;
 }
 
+.join_discord {
+    position: relative;
+    left: 0.8vh;
+}
+
 .contact_button {
     position: relative;
     left: 0.4vh;

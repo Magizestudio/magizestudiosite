@@ -85,9 +85,6 @@ button:hover {
 }
 
 .space_collect {
-    width: 35vh;
-    height: 15vh;
-    border-radius: 1vh;
     position: relative;
-    left: 5vh;
+    top: 2vh;
 }

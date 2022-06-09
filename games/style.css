@@ -83,3 +83,8 @@ button:hover {
     position: relative;
     left: 5vh;
 }
+
+.space_collect {
+    position: relative;
+    top: 2vh;
+}
